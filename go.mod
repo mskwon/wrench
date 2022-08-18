@@ -1,4 +1,4 @@
-module github.com/cloudspannerecosystem/wrench
+module github.com/mskwon/wrench
 
 go 1.18
 
